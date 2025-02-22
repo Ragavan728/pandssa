@@ -1,0 +1,146 @@
+.display-4 {
+    font-family: var(--ffPrimary);
+    font-size: 5.2rem;
+}
+
+.hero-card-text {
+    font-family: var(--ffPrimary);
+    font-size: 1.6rem;
+}
+
+.card-text {
+    font-family: var(--ffSecondary);
+    font-size: 1.6rem;
+    color: var(--tertiaryColor);
+}
+
+.card-title {
+    font-family: var(--ffPrimary);
+    font-size: 1.7rem;
+    color: var(--darkColor);
+    text-decoration: underline;
+}
+
+.title {
+    font-family: var(--ffPrimary);
+    font-size: 1.8rem;
+    color: var(--tertiaryColor);
+}
+
+.heading-title {
+    font-family: var(--ffPrimary);
+    font-size: 4rem;
+    color: var(--primaryColor);
+}
+
+span {
+    color: var(--secondaryColor);
+}
+
+.span-card-text {
+    font-family: var(--ffPrimary);
+    color: var(--secondaryColor);
+}
+
+.subheading {
+    font-family: var(--secondaryColor);
+    color: var(--tertiaryColor);
+}
+
+.list-title {
+    font-family: var(--ffPrimary);
+    font-size: 2.3rem;
+    color: var(--darkColor);
+}
+
+.feedback-card-text {
+    font-family: var(--ffPrimary);
+    font-size: 1.8rem;
+    color: var(--tertiaryColor);
+}
+
+.navbar_logo {
+    width: 16rem;
+}
+
+.nav-item {
+    font-family: var(--ffPrimary);
+}
+
+.clients {
+    font-family: var(--ffPrimary);
+    font-size: 2rem;
+}
+
+.card-img-top {
+    width: 18rem;
+}
+
+.knownImg {
+    width: 100%;
+    height: auto;
+}
+
+.mediaImg {
+    width: 30rem;
+}
+
+.expe_img {
+    width: 50rem;
+}
+
+.brandImg {
+    width: 40rem;
+}
+
+.dmImg {
+    width: 45rem;
+}
+
+.clientImg {
+    width: 30rem;
+}
+
+.logo_img {
+    width: 20rem;
+}
+
+.icon {
+    font-size: 2.6rem;
+    color: var(--secondaryColor);
+}
+
+.list-item a {
+    font-family: var(--ffPrimary);
+    color: var(--lightColor);
+}
+
+.list-item a:hover,
+.footer-icons a:hover {
+    color: var(--secondaryColor);
+}
+
+.btn {
+    background-color: var(--secondaryColor);
+    font-family: var(--ffPrimary);
+    font-size: 1.7rem;
+    color: var(--lightColor);
+}
+
+.btn:hover {
+    background-color: var(--lightColor);
+    color: var(--secondaryColor);
+}
+
+.bg {
+    background-color: var(--darkColor);
+}
+
+.footer-text {
+    font-family: var(--ffPrimary);
+    color: var(--lightColor);
+}
+
+.footer-icons a {
+    color: var(--tertiaryColor);
+}

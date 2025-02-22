@@ -1,0 +1,91 @@
+/* Default code Starts here */
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-wrap: pretty;
+    /* border: 1px solid red; */
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #eff2f7;
+    font-family: "Jost", serif;
+    font-family: "Open Sans", serif;
+    line-height: 1.5;
+    font-size: 1.6rem;
+    -webkit-font-smoothing: antialiased;
+    font-optical-sizing: auto;
+}
+
+
+
+::-webkit-scrollbar {
+    width: 1rem;
+}
+
+::-webkit-scrollbar {
+    width: 1.2rem;
+}
+
+::-webkit-scrollbar-track {
+    background: #a0a0a0;
+    border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 2px;
+    border: 1px solid #2b2b2b;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+h1,
+h2,
+h3,
+h4,
+h6,
+p {
+    text-wrap: balance;
+}
+
+input,
+textarea,
+button {
+    font-family: inherit;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
+:root {
+    --primaryColor: #2e3138;
+    --secondaryColor: #ff5650;
+    --tertiaryColor: #6b6b6b;
+    --darkColor: #232429;
+    --lightColor: #ffffff;
+    --regularFont: 1.4rem;
+    --headingFont: 2rem;
+    --ffPrimary: "Jost", serif;
+    --ffSecondary: "Open Sans", serif;
+}
+
+/* Default code Ends here */
